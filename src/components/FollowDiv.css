@@ -1,0 +1,17 @@
+.follow-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.follow-div h6 {
+    color: #35312E;
+    font-size: 15px;
+}
+
+.follow-div button {
+    background-color: #fff;
+    padding: 20px 40px;
+    border: none;
+}

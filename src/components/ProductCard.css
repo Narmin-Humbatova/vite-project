@@ -1,0 +1,29 @@
+.prduct-card p {
+    color:#4F463F;
+}
+.prduct-card h4 {
+    color: #35312E;
+    ;
+}
+.bg-bej {
+    background-color: #f7f3eb;
+    position: relative;
+    width: 300px;
+    height: 200px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bowl, .glasses , .plates {
+    position: absolute;
+    width: 250px;
+    top: -95px;
+}
+
+.pan {
+    position: absolute;
+    width: 250px;
+    top: 20px;
+}

@@ -1,0 +1,13 @@
+.curated-section {
+    background-color: #FCFAF6;
+}
+.curated-section .limit {
+    color: #35312E;
+    font-size: 33px;
+    font-weight: 700;
+}
+
+.curated-section .make {
+    color: #4F463F;
+    font-size: 20px;
+}

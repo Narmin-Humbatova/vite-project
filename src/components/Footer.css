@@ -1,0 +1,28 @@
+.footer-place {
+    background-color: #6C674D;
+}
+
+.footer .footer-end {
+    background-color: #807C62;
+}
+
+.footer .footer-place .footer-keep h5 {
+    font-weight: 700;
+    font-size: 25px;
+    color: #fff;
+}
+
+.footer .footer-place .footer-start h6{
+    font-weight: 700;
+    font-size: 14px;
+    color: #fff;
+}
+
+.footer .footer-place .footer-start p{
+    font-size: 13px;
+    color: #F5F1E999;
+}
+
+.footer .footer-end {
+    color: #F5F1E999;
+}

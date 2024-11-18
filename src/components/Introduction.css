@@ -1,0 +1,29 @@
+:root {
+    --introduction-btn-color: #D37657;
+}
+
+.introduction {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5) , rgba(0, 0, 0, 0.142)), url('/images/introduction/background.svg') no-repeat fixed;
+    height: 80vh;
+    background-size: cover;
+    color: #fff;
+}
+
+.introduction-shop {
+    background-color: #D37657;
+    color: #fff;
+    padding: 19px 30px 20px;
+    border-color: transparent;
+}
+
+.introduction-text {
+    position: absolute;
+    top: 55%;
+    right: 65%;
+    transform: translate(50%, -50%);
+}
+
+.introduction .introduction-text button{
+    width: 230px;
+    height: 70px;
+}
